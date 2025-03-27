@@ -18,7 +18,7 @@ const generateToken = (userId) => {
 exports.registerUser = async (req, res) => {
   try {
     const { userName, email, password } = req.body;
-
+    
     // Check if user already exists
     const userExists = await User.findOne({ email });
     if (userExists) {
@@ -61,8 +61,9 @@ exports.registerUser = async (req, res) => {
 // @access  Public
 exports.loginUser = async (req, res) => {
   try {
+    console.log(req.body);
     const { email, password } = req.body;
-
+    
     // Find user and include password for comparison
     const user = await User.findOne({ email }).select('+password');
     

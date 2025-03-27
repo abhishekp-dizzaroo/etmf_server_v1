@@ -1,0 +1,1356 @@
+[
+    {
+        "id": "1",
+        "name": "Trial Management",
+        "sections": [
+            {
+                "id": "1.01",
+                "name": "Trial Oversight",
+                "artifacts": [
+                    {
+                        "id": "01.01.01",
+                        "name": "Trial Master File Plan"
+                    },
+                    {
+                        "id": "01.01.02",
+                        "name": "Trial Management Plan"
+                    },
+                    {
+                        "id": "01.01.03",
+                        "name": "Quality Plan"
+                    },
+                    {
+                        "id": "01.01.04",
+                        "name": "List of SOPs Current During Trial"
+                    },
+                    {
+                        "id": "01.01.05",
+                        "name": "Operational Procedure Manual"
+                    },
+                    {
+                        "id": "01.01.06",
+                        "name": "Recruitment Plan"
+                    },
+                    {
+                        "id": "01.01.07",
+                        "name": "Communication Plan"
+                    },
+                    {
+                        "id": "01.01.08",
+                        "name": "Monitoring Plan"
+                    },
+                    {
+                        "id": "01.01.09",
+                        "name": "Medical Monitoring Plan"
+                    },
+                    {
+                        "id": "01.01.10",
+                        "name": "Publication Policy"
+                    },
+                    {
+                        "id": "01.01.11",
+                        "name": "Debarment Statement"
+                    },
+                    {
+                        "id": "01.01.12",
+                        "name": "Trial Status Report"
+                    },
+                    {
+                        "id": "01.01.13",
+                        "name": "Investigator Newsletter"
+                    },
+                    {
+                        "id": "01.01.14",
+                        "name": "Audit Certificate"
+                    },
+                    {
+                        "id": "01.01.15",
+                        "name": "Filenote Master List"
+                    },
+                    {
+                        "id": "01.01.16",
+                        "name": "Risk Management Plan"
+                    },
+                    {
+                        "id": "01.01.17",
+                        "name": "Vendor Management Plan"
+                    },
+                    {
+                        "id": "01.01.18",
+                        "name": "Roles and Responsibility Matrix"
+                    },
+                    {
+                        "id": "01.01.19",
+                        "name": "Transfer of Regulatory Obligations"
+                    },
+                    {
+                        "id": "01.01.20",
+                        "name": "Operational Oversight"
+                    }
+                ]
+            },
+            {
+                "id": "1.02",
+                "name": "Trial Team",
+                "artifacts": [
+                    {
+                        "id": "01.02.01",
+                        "name": "Trial Team Details"
+                    },
+                    {
+                        "id": "01.02.02",
+                        "name": "Trial Team Curriculum Vitae"
+                    }
+                ]
+            },
+            {
+                "id": "1.03",
+                "name": "Trial Committee",
+                "artifacts": [
+                    {
+                        "id": "01.03.01",
+                        "name": "Committee Process"
+                    },
+                    {
+                        "id": "01.03.02",
+                        "name": "Committee Member List"
+                    },
+                    {
+                        "id": "01.03.03",
+                        "name": "Committee Output"
+                    },
+                    {
+                        "id": "01.03.04",
+                        "name": "Committee Member Curriculum Vitae"
+                    },
+                    {
+                        "id": "01.03.05",
+                        "name": "Committee Member Financial Disclosure Form"
+                    },
+                    {
+                        "id": "01.03.06",
+                        "name": "Committee Member Contract"
+                    },
+                    {
+                        "id": "01.03.07",
+                        "name": "Committee Member Confidentiality Disclosure Agreement"
+                    }
+                ]
+            },
+            {
+                "id": "1.04",
+                "name": "Meetings",
+                "artifacts": [
+                    {
+                        "id": "01.04.01",
+                        "name": "Kick-off Meeting Material"
+                    },
+                    {
+                        "id": "01.04.02",
+                        "name": "Trial Team Training Material"
+                    },
+                    {
+                        "id": "01.04.03",
+                        "name": "Investigators Meeting Material"
+                    },
+                    {
+                        "id": "01.04.04",
+                        "name": "Trial Team Evidence of Training"
+                    }
+                ]
+            },
+            {
+                "id": "1.05",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "01.05.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "01.05.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "01.05.03",
+                        "name": "Other Meeting Material"
+                    },
+                    {
+                        "id": "01.05.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Central Trial Documents",
+        "sections": [
+            {
+                "id": "2.01",
+                "name": "Product and Trial Documentation",
+                "artifacts": [
+                    {
+                        "id": "02.01.01",
+                        "name": "Investigator's Brochure"
+                    },
+                    {
+                        "id": "02.01.02",
+                        "name": "Protocol"
+                    },
+                    {
+                        "id": "02.01.03",
+                        "name": "Protocol Synopsis"
+                    },
+                    {
+                        "id": "02.01.04",
+                        "name": "Protocol Amendment"
+                    },
+                    {
+                        "id": "02.01.05",
+                        "name": "Financial Disclosure Summary"
+                    },
+                    {
+                        "id": "02.01.06",
+                        "name": "Insurance"
+                    },
+                    {
+                        "id": "02.01.07",
+                        "name": "Sample Case Report Form"
+                    },
+                    {
+                        "id": "02.01.10",
+                        "name": "Report of Prior Investigations"
+                    },
+                    {
+                        "id": "02.01.11",
+                        "name": "Marketed Product Material"
+                    }
+                ]
+            },
+            {
+                "id": "2.02",
+                "name": "Subject Documentation",
+                "artifacts": [
+                    {
+                        "id": "02.02.01",
+                        "name": "Subject Diary"
+                    },
+                    {
+                        "id": "02.02.02",
+                        "name": "Subject Questionnaire"
+                    },
+                    {
+                        "id": "02.02.03",
+                        "name": "Informed Consent Form"
+                    },
+                    {
+                        "id": "02.02.04",
+                        "name": "Subject Information Sheet"
+                    },
+                    {
+                        "id": "02.02.05",
+                        "name": "Subject Participation Card"
+                    },
+                    {
+                        "id": "02.02.06",
+                        "name": "Advertisements for Subject Recruitment"
+                    },
+                    {
+                        "id": "02.02.07",
+                        "name": "Other Information Given to Subjects"
+                    }
+                ]
+            },
+            {
+                "id": "2.03",
+                "name": "Reports",
+                "artifacts": [
+                    {
+                        "id": "02.03.01",
+                        "name": "Clinical Study Report"
+                    },
+                    {
+                        "id": "02.03.02",
+                        "name": "Bioanalytical Report"
+                    }
+                ]
+            },
+            {
+                "id": "2.04",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "02.04.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "02.04.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "02.04.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "02.04.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Regulatory",
+        "sections": [
+            {
+                "id": "3.01",
+                "name": "Trial Approval",
+                "artifacts": [
+                    {
+                        "id": "03.01.01",
+                        "name": "Regulatory Submission"
+                    },
+                    {
+                        "id": "03.01.02",
+                        "name": "Regulatory Authority Decision"
+                    },
+                    {
+                        "id": "03.01.03",
+                        "name": "Notification of Regulatory Identification Number"
+                    },
+                    {
+                        "id": "03.01.04",
+                        "name": "Public Registration"
+                    }
+                ]
+            },
+            {
+                "id": "3.02",
+                "name": "Investigational Medicinal Product",
+                "artifacts": [
+                    {
+                        "id": "03.02.01",
+                        "name": "Import or Export License Application"
+                    },
+                    {
+                        "id": "03.02.02",
+                        "name": "Import or Export Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "3.03",
+                "name": "Trial Status Reporting",
+                "artifacts": [
+                    {
+                        "id": "03.03.01",
+                        "name": "Notification of Safety or Trial Information"
+                    },
+                    {
+                        "id": "03.03.02",
+                        "name": "Regulatory Progress Report"
+                    },
+                    {
+                        "id": "03.03.03",
+                        "name": "Regulatory Notification of Trial Termination"
+                    }
+                ]
+            },
+            {
+                "id": "3.04",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "03.04.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "03.04.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "03.04.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "03.04.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "IRB or IEC and other Approvals",
+        "sections": [
+            {
+                "id": "4.01",
+                "name": "IRB or IEC Trial Approval",
+                "artifacts": [
+                    {
+                        "id": "04.01.01",
+                        "name": "IRB or IEC Submission"
+                    },
+                    {
+                        "id": "04.01.02",
+                        "name": "IRB or IEC Decision"
+                    },
+                    {
+                        "id": "04.01.03",
+                        "name": "IRB or IEC Composition"
+                    },
+                    {
+                        "id": "04.01.04",
+                        "name": "IRB or IEC Documentation of Non-Voting Status"
+                    },
+                    {
+                        "id": "04.01.05",
+                        "name": "IRB or IEC Compliance Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "4.02",
+                "name": "Other Committees",
+                "artifacts": [
+                    {
+                        "id": "04.02.01",
+                        "name": "Other Submissions"
+                    },
+                    {
+                        "id": "04.02.02",
+                        "name": "Other Approvals"
+                    }
+                ]
+            },
+            {
+                "id": "4.03",
+                "name": "Trial Status Reporting",
+                "artifacts": [
+                    {
+                        "id": "04.03.01",
+                        "name": "Notification to IRB or IEC of Safety Information"
+                    },
+                    {
+                        "id": "04.03.02",
+                        "name": "IRB or IEC Progress Report"
+                    },
+                    {
+                        "id": "04.03.03",
+                        "name": "IRB or IEC Notification of Trial Termination"
+                    }
+                ]
+            },
+            {
+                "id": "4.04",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "04.04.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "04.04.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "04.04.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "04.04.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Site Management",
+        "sections": [
+            {
+                "id": "5.01",
+                "name": "Site Selection",
+                "artifacts": [
+                    {
+                        "id": "05.01.01",
+                        "name": "Site Contact Details"
+                    },
+                    {
+                        "id": "05.01.02",
+                        "name": "Confidentiality Agreement"
+                    },
+                    {
+                        "id": "05.01.03",
+                        "name": "Feasibility Documentation"
+                    },
+                    {
+                        "id": "05.01.04",
+                        "name": "Pre Trial Monitoring Report"
+                    },
+                    {
+                        "id": "05.01.05",
+                        "name": "Sites Evaluated but not Selected"
+                    }
+                ]
+            },
+            {
+                "id": "5.02",
+                "name": "Site Set-up",
+                "artifacts": [
+                    {
+                        "id": "05.02.01",
+                        "name": "Acceptance of Investigator Brochure"
+                    },
+                    {
+                        "id": "05.02.02",
+                        "name": "Protocol Signature Page"
+                    },
+                    {
+                        "id": "05.02.03",
+                        "name": "Protocol Amendment Signature Page"
+                    },
+                    {
+                        "id": "05.02.04",
+                        "name": "Principal Investigator Curriculum Vitae"
+                    },
+                    {
+                        "id": "05.02.05",
+                        "name": "Sub-Investigator Curriculum Vitae"
+                    },
+                    {
+                        "id": "05.02.06",
+                        "name": "Other Curriculum Vitae"
+                    },
+                    {
+                        "id": "05.02.07",
+                        "name": "Site Staff Qualification Supporting Information"
+                    },
+                    {
+                        "id": "05.02.08",
+                        "name": "Form FDA 1572"
+                    },
+                    {
+                        "id": "05.02.09",
+                        "name": "Investigator Regulatory Agreement"
+                    },
+                    {
+                        "id": "05.02.10",
+                        "name": "Financial Disclosure Form"
+                    },
+                    {
+                        "id": "05.02.11",
+                        "name": "Data Privacy Agreement"
+                    },
+                    {
+                        "id": "05.02.12",
+                        "name": "Clinical Trial Agreement"
+                    },
+                    {
+                        "id": "05.02.13",
+                        "name": "Indemnity"
+                    },
+                    {
+                        "id": "05.02.14",
+                        "name": "Other Financial Agreement"
+                    },
+                    {
+                        "id": "05.02.17",
+                        "name": "IP Site Release Documentation"
+                    },
+                    {
+                        "id": "05.02.18",
+                        "name": "Site Signature Sheet"
+                    },
+                    {
+                        "id": "05.02.19",
+                        "name": "Investigators Agreement (Device)"
+                    },
+                    {
+                        "id": "05.02.20",
+                        "name": "Coordinating Investigator Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "5.03",
+                "name": "Site Initiation",
+                "artifacts": [
+                    {
+                        "id": "05.03.01",
+                        "name": "Trial Initiation Monitoring Report"
+                    },
+                    {
+                        "id": "05.03.02",
+                        "name": "Site Training Material"
+                    },
+                    {
+                        "id": "05.03.03",
+                        "name": "Site Evidence of Training"
+                    }
+                ]
+            },
+            {
+                "id": "5.04",
+                "name": "Site Management",
+                "artifacts": [
+                    {
+                        "id": "05.04.01",
+                        "name": "Subject Log"
+                    },
+                    {
+                        "id": "05.04.02",
+                        "name": "Source Data Verification"
+                    },
+                    {
+                        "id": "05.04.03",
+                        "name": "Monitoring Visit Report"
+                    },
+                    {
+                        "id": "05.04.04",
+                        "name": "Visit Log"
+                    },
+                    {
+                        "id": "05.04.05",
+                        "name": "Additional Monitoring Activity"
+                    },
+                    {
+                        "id": "05.04.06",
+                        "name": "Protocol Deviations"
+                    },
+                    {
+                        "id": "05.04.07",
+                        "name": "Financial Documentation"
+                    },
+                    {
+                        "id": "05.04.08",
+                        "name": "Final Trial Close Out Monitoring Report"
+                    },
+                    {
+                        "id": "05.04.09",
+                        "name": "Notification to Investigators of Safety Information"
+                    },
+                    {
+                        "id": "05.04.10",
+                        "name": "Subject Identification Log"
+                    },
+                    {
+                        "id": "05.04.11",
+                        "name": "Source Data"
+                    },
+                    {
+                        "id": "05.04.12",
+                        "name": "Monitoring Visit Follow-up Documentation"
+                    },
+                    {
+                        "id": "05.04.13",
+                        "name": "Subject Eligibility Verification Forms and Worksheets"
+                    }
+                ]
+            },
+            {
+                "id": "5.05",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "05.05.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "05.05.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "05.05.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "05.05.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "IP and Trial Supplies",
+        "sections": [
+            {
+                "id": "6.01",
+                "name": "IP Documentation",
+                "artifacts": [
+                    {
+                        "id": "06.01.01",
+                        "name": "IP Supply Plan"
+                    },
+                    {
+                        "id": "06.01.02",
+                        "name": "IP Instructions for Handling"
+                    },
+                    {
+                        "id": "06.01.03",
+                        "name": "IP Sample Label"
+                    },
+                    {
+                        "id": "06.01.04",
+                        "name": "IP Shipment Documentation"
+                    },
+                    {
+                        "id": "06.01.05",
+                        "name": "IP Accountability Documentation"
+                    },
+                    {
+                        "id": "06.01.06",
+                        "name": "IP Transfer Documentation"
+                    },
+                    {
+                        "id": "06.01.07",
+                        "name": "IP Re-labeling Documentation"
+                    },
+                    {
+                        "id": "06.01.08",
+                        "name": "IP Recall Documentation"
+                    },
+                    {
+                        "id": "06.01.09",
+                        "name": "IP Quality Complaint Form"
+                    },
+                    {
+                        "id": "06.01.10",
+                        "name": "IP Return Documentation"
+                    },
+                    {
+                        "id": "06.01.11",
+                        "name": "IP Certificate of Destruction"
+                    },
+                    {
+                        "id": "06.01.12",
+                        "name": "IP Retest and Expiry Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "6.02",
+                "name": "IP Release Process Documentation",
+                "artifacts": [
+                    {
+                        "id": "06.02.01",
+                        "name": "QP (Qualified Person) Certification"
+                    },
+                    {
+                        "id": "06.02.02",
+                        "name": "IP Regulatory Release Documentation"
+                    },
+                    {
+                        "id": "06.02.03",
+                        "name": "IP Verification Statements"
+                    },
+                    {
+                        "id": "06.02.04",
+                        "name": "Certificate of Analysis"
+                    }
+                ]
+            },
+            {
+                "id": "6.03",
+                "name": "IP Allocation Documentation",
+                "artifacts": [
+                    {
+                        "id": "06.03.01",
+                        "name": "IP Treatment Allocation Documentation"
+                    },
+                    {
+                        "id": "06.03.02",
+                        "name": "IP Unblinding Plan"
+                    },
+                    {
+                        "id": "06.03.03",
+                        "name": "IP Treatment Decoding Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "6.04",
+                "name": "Storage",
+                "artifacts": [
+                    {
+                        "id": "06.04.01",
+                        "name": "IP Storage Condition Documentation"
+                    },
+                    {
+                        "id": "06.04.02",
+                        "name": "IP Storage Condition Excursion Documentation"
+                    },
+                    {
+                        "id": "06.04.03",
+                        "name": "Maintenance Logs"
+                    }
+                ]
+            },
+            {
+                "id": "6.05",
+                "name": "Non-IP Documentation",
+                "artifacts": [
+                    {
+                        "id": "06.05.01",
+                        "name": "Non-IP Supply Plan"
+                    },
+                    {
+                        "id": "06.05.02",
+                        "name": "Non-IP Shipment Documentation"
+                    },
+                    {
+                        "id": "06.05.03",
+                        "name": "Non-IP Return Documentation"
+                    },
+                    {
+                        "id": "06.05.04",
+                        "name": "Non-IP Storage Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "6.06",
+                "name": "Interactive Response Technology",
+                "artifacts": [
+                    {
+                        "id": "06.06.01",
+                        "name": "IRT User Requirement Specification"
+                    },
+                    {
+                        "id": "06.06.02",
+                        "name": "IRT Validation Certification"
+                    },
+                    {
+                        "id": "06.06.03",
+                        "name": "IRT User Acceptance Testing (UAT) Certification"
+                    },
+                    {
+                        "id": "06.06.04",
+                        "name": "IRT User Manual"
+                    },
+                    {
+                        "id": "06.06.05",
+                        "name": "IRT User Account Management"
+                    }
+                ]
+            },
+            {
+                "id": "6.07",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "06.07.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "06.07.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "06.07.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "06.07.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Safety Reporting",
+        "sections": [
+            {
+                "id": "7.01",
+                "name": "Safety Documentation",
+                "artifacts": [
+                    {
+                        "id": "07.01.01",
+                        "name": "Safety Management Plan"
+                    },
+                    {
+                        "id": "07.01.02",
+                        "name": "Pharmacovigilance Database Line Listing"
+                    }
+                ]
+            },
+            {
+                "id": "7.02",
+                "name": "Trial Status Reporting",
+                "artifacts": [
+                    {
+                        "id": "07.02.01",
+                        "name": "Expedited Safety Report"
+                    },
+                    {
+                        "id": "07.02.02",
+                        "name": "SAE Report"
+                    },
+                    {
+                        "id": "07.02.03",
+                        "name": "Pregnancy Report"
+                    },
+                    {
+                        "id": "07.02.04",
+                        "name": "Special Events of Interest"
+                    }
+                ]
+            },
+            {
+                "id": "7.03",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "07.03.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "07.03.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "07.03.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "07.03.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Central and Local Testing",
+        "sections": [
+            {
+                "id": "8.01",
+                "name": "Facility Documentation",
+                "artifacts": [
+                    {
+                        "id": "08.01.01",
+                        "name": "Certification or Accreditation"
+                    },
+                    {
+                        "id": "08.01.02",
+                        "name": "Laboratory Validation Documentation"
+                    },
+                    {
+                        "id": "08.01.03",
+                        "name": "Laboratory Results Documentation"
+                    },
+                    {
+                        "id": "08.01.04",
+                        "name": "Normal Ranges"
+                    },
+                    {
+                        "id": "08.01.05",
+                        "name": "Manual"
+                    },
+                    {
+                        "id": "08.01.06",
+                        "name": "Supply Import Documentation"
+                    },
+                    {
+                        "id": "08.01.07",
+                        "name": "Head of Facility Curriculum Vitae"
+                    },
+                    {
+                        "id": "08.01.08",
+                        "name": "Standardization Methods"
+                    }
+                ]
+            },
+            {
+                "id": "8.02",
+                "name": "Sample Documentation",
+                "artifacts": [
+                    {
+                        "id": "08.02.01",
+                        "name": "Specimen Label"
+                    },
+                    {
+                        "id": "08.02.02",
+                        "name": "Shipment Records"
+                    },
+                    {
+                        "id": "08.02.03",
+                        "name": "Sample Storage Condition Log"
+                    },
+                    {
+                        "id": "08.02.04",
+                        "name": "Sample Import or Export Documentation"
+                    },
+                    {
+                        "id": "08.02.05",
+                        "name": "Record of Retained Samples"
+                    }
+                ]
+            },
+            {
+                "id": "8.03",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "08.03.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "08.03.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "08.03.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "08.03.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Third parties",
+        "sections": [
+            {
+                "id": "9.01",
+                "name": "Third Party Oversight",
+                "artifacts": [
+                    {
+                        "id": "09.01.01",
+                        "name": "Qualification and Compliance"
+                    },
+                    {
+                        "id": "09.01.02",
+                        "name": "Third Party Curriculum Vitae"
+                    },
+                    {
+                        "id": "09.01.03",
+                        "name": "Ongoing Third Party Oversight"
+                    }
+                ]
+            },
+            {
+                "id": "9.02",
+                "name": "Third Party Set-up",
+                "artifacts": [
+                    {
+                        "id": "09.02.01",
+                        "name": "Confidentiality Agreement"
+                    },
+                    {
+                        "id": "09.02.02",
+                        "name": "Vendor Selection"
+                    },
+                    {
+                        "id": "09.02.03",
+                        "name": "Contractual Agreement"
+                    }
+                ]
+            },
+            {
+                "id": "9.03",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "09.03.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "09.03.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "09.03.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "09.03.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Data Management",
+        "sections": [
+            {
+                "id": "10.01",
+                "name": "Data Management Oversight",
+                "artifacts": [
+                    {
+                        "id": "10.01.01",
+                        "name": "Data Management Plan"
+                    }
+                ]
+            },
+            {
+                "id": "10.02",
+                "name": "Data Capture",
+                "artifacts": [
+                    {
+                        "id": "10.02.01",
+                        "name": "CRF Completion Requirements"
+                    },
+                    {
+                        "id": "10.02.02",
+                        "name": "Annotated CRF"
+                    },
+                    {
+                        "id": "10.02.04",
+                        "name": "Documentation of Corrections to Entered Data"
+                    },
+                    {
+                        "id": "10.02.05",
+                        "name": "Final Subject Data"
+                    }
+                ]
+            },
+            {
+                "id": "10.03",
+                "name": "Database",
+                "artifacts": [
+                    {
+                        "id": "10.03.01",
+                        "name": "Database  Requirements"
+                    },
+                    {
+                        "id": "10.03.02",
+                        "name": "Edit Check Plan"
+                    },
+                    {
+                        "id": "10.03.03",
+                        "name": "Edit Check Programming"
+                    },
+                    {
+                        "id": "10.03.04",
+                        "name": "Edit Check Testing"
+                    },
+                    {
+                        "id": "10.03.05",
+                        "name": "Approval for Database Activation"
+                    },
+                    {
+                        "id": "10.03.06",
+                        "name": "External Data Transfer Specifications"
+                    },
+                    {
+                        "id": "10.03.07",
+                        "name": "Data Entry Guidelines (Paper)"
+                    },
+                    {
+                        "id": "10.03.08",
+                        "name": "SAE Reconciliation"
+                    },
+                    {
+                        "id": "10.03.09",
+                        "name": "Dictionary Coding"
+                    },
+                    {
+                        "id": "10.03.10",
+                        "name": "Data Review Documentation"
+                    },
+                    {
+                        "id": "10.03.11",
+                        "name": "Database Lock and Unlock Approval"
+                    },
+                    {
+                        "id": "10.03.12",
+                        "name": "Database Change Control"
+                    }
+                ]
+            },
+            {
+                "id": "10.04",
+                "name": "EDC Management",
+                "artifacts": [
+                    {
+                        "id": "10.04.01",
+                        "name": "System Account Management"
+                    },
+                    {
+                        "id": "10.04.02",
+                        "name": "Technical Design Document"
+                    },
+                    {
+                        "id": "10.04.03",
+                        "name": "Validation Documentation"
+                    }
+                ]
+            },
+            {
+                "id": "10.05",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "10.05.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "10.05.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "10.05.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "10.05.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Statistics",
+        "sections": [
+            {
+                "id": "11.01",
+                "name": "Statistics Oversight",
+                "artifacts": [
+                    {
+                        "id": "11.01.01",
+                        "name": "Statistical Analysis Plan"
+                    },
+                    {
+                        "id": "11.01.02",
+                        "name": "Sample Size Calculation"
+                    }
+                ]
+            },
+            {
+                "id": "11.02",
+                "name": "Randomization",
+                "artifacts": [
+                    {
+                        "id": "11.02.01",
+                        "name": "Randomization Plan"
+                    },
+                    {
+                        "id": "11.02.02",
+                        "name": "Randomization Procedure"
+                    },
+                    {
+                        "id": "11.02.03",
+                        "name": "Master Randomization List"
+                    },
+                    {
+                        "id": "11.02.04",
+                        "name": "Randomization Programming"
+                    },
+                    {
+                        "id": "11.02.05",
+                        "name": "Randomization Sign Off"
+                    },
+                    {
+                        "id": "11.02.06",
+                        "name": "End of Trial or Interim Unblinding"
+                    }
+                ]
+            },
+            {
+                "id": "11.03",
+                "name": "Analysis",
+                "artifacts": [
+                    {
+                        "id": "11.03.01",
+                        "name": "Data Definitions for Analysis Datasets"
+                    },
+                    {
+                        "id": "11.03.02",
+                        "name": "Analysis QC Documentation"
+                    },
+                    {
+                        "id": "11.03.03",
+                        "name": "Interim Analysis Raw Datasets"
+                    },
+                    {
+                        "id": "11.03.04",
+                        "name": "Interim Analysis Programs"
+                    },
+                    {
+                        "id": "11.03.05",
+                        "name": "Interim Analysis Datasets"
+                    },
+                    {
+                        "id": "11.03.06",
+                        "name": "Interim Analysis Output"
+                    },
+                    {
+                        "id": "11.03.07",
+                        "name": "Final Analysis Raw Datasets"
+                    },
+                    {
+                        "id": "11.03.08",
+                        "name": "Final Analysis Programs"
+                    },
+                    {
+                        "id": "11.03.09",
+                        "name": "Final Analysis Datasets"
+                    },
+                    {
+                        "id": "11.03.10",
+                        "name": "Final Analysis Output"
+                    },
+                    {
+                        "id": "11.03.11",
+                        "name": "Subject Evaluability Criteria and Subject Classification"
+                    }
+                ]
+            },
+            {
+                "id": "11.04",
+                "name": "Report",
+                "artifacts": [
+                    {
+                        "id": "11.04.01",
+                        "name": "Interim Statistical Report(s)"
+                    },
+                    {
+                        "id": "11.04.02",
+                        "name": "Statistical Report"
+                    }
+                ]
+            },
+            {
+                "id": "11.05",
+                "name": "General",
+                "artifacts": [
+                    {
+                        "id": "11.05.01",
+                        "name": "Relevant Communications"
+                    },
+                    {
+                        "id": "11.05.02",
+                        "name": "Tracking Information"
+                    },
+                    {
+                        "id": "11.05.03",
+                        "name": "Meeting Material"
+                    },
+                    {
+                        "id": "11.05.04",
+                        "name": "Filenote"
+                    }
+                ]
+            }
+        ]
+    }
+]
